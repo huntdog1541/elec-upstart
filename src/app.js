@@ -1,5 +1,5 @@
-var app = require('app'), ipc = require('ipc'),
- BrowserWindow = require('browser-window');
+const electron = require('electron')
+var app = electron.app, BrowserWindow = electron.BrowserWindow;
 
 var mainWindow = null;
 
