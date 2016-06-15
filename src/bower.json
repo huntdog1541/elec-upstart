@@ -1,0 +1,13 @@
+{
+  "name": "kagu",
+  "description": "con editor",
+  "main": "app.js",
+  "authors": [
+    "David Hunt"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "editor"
+  ],
+  "homepage": "https://github.com/huntdog1541/elec-upstart"
+}

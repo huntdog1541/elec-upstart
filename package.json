@@ -1,0 +1,27 @@
+{
+  "name": "kagu",
+  "version": "1.0.0",
+  "description": "con editor",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ./src",
+    "dist": "gulp electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntdog1541/elec-upstart.git"
+  },
+  "keywords": [
+    "editor"
+  ],
+  "author": "David Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huntdog1541/elec-upstart/issues"
+  },
+  "homepage": "https://github.com/huntdog1541/elec-upstart#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-electron": "0.0.9"
+  }
+}
